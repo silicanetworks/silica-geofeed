@@ -1,0 +1,5 @@
+# Geofeed — RFC 8805
+# prefijo,CC,región,ciudad,código_postal
+
+38.211.193.0/24,AR,AR-M,Mendoza,5500
+149.78.132.0/24,AR,AR-M,Mendoza,5500
