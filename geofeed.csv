@@ -1,5 +1,5 @@
-# Geofeed — RFC 8805
-# prefijo,CC,región,ciudad,código_postal
+# Silica Networks Geofeed — RFC 8805
+# prefix,CC,region,city,cp
 
 38.211.193.0/24,AR,AR-M,Mendoza,5500
 149.78.132.0/24,AR,AR-M,Mendoza,5500
